@@ -1,18 +1,10 @@
 # homebrew-tap
 To install anything in here, first run:
 ```
-brew tap spectralkh/tap
+brew tap geekchester/flutter-tap
 ```
 
 # Casks
-
-### to
-https://github.com/SpectralKH/to
-
-Install by running:
-```
-brew cask install to
-```
 
 ### flutter
 Install by running:
